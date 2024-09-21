@@ -1,1 +1,1 @@
-# harshika
+Practical Implementation of Linear Regression 
